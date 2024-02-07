@@ -1,0 +1,65 @@
+body{
+    background: burlywood;
+}
+.container{
+    background: black;
+    height:800;
+    width:10S00;
+}
+.front{
+    background-image:url("ak.jpg") ;
+    background-color: beige;
+    background-size:500px;
+    height: 500px;
+    width: 320px;
+    float:left;
+    margin-left:250px;
+    margin-top:70px;
+    border-radius: 20px;
+    img(opacity:0.5)
+    
+}
+.back{
+    background-image:url("ak.jpg") ;
+    height: 500px;
+    width: 320px;
+    float:left;
+    margin-left:30px;
+    margin-top:70px;
+    border-radius: 20px;
+    
+    
+}
+.pic{
+    background-image:url("kalam passport size.jpg");
+    background-size: cover;
+    height: 130px;
+    width:100px;
+    margin:auto;
+    margin-top:30px;
+}
+.header{
+    background-color:lightskyblue;
+    height:90px;
+    width:100%;
+    border-radius:20px;
+    text-align: center;  
+}
+p{
+    margin-top:0;
+    font-size:32px;
+    color:rgb(243, 10, 10);
+    font-style:italic;
+    font-weight: 1000;
+
+}
+pre{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif    
+}
+address{
+    margin: top 0;;
+}
+i{
+    text-align: left;
+}
